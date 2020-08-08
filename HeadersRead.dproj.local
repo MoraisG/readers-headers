@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/08 18:53:43.000.652,=rtl.dcp</Transaction>
+    <Transaction>2020/08/08 18:54:25.000.251,C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj=D:\Desenvolvimento\Fontes\03_Horse\01_Middleware\horse-headers\HeadersRead.dproj</Transaction>
+    <Transaction>2020/08/08 18:55:37.584,=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Attributes.pas</Transaction>
+    <Transaction>2020/08/08 18:55:49.075,=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Headers.pas</Transaction>
+    <Transaction>2020/08/08 18:56:20.153,=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Rtti.Interfaces.pas</Transaction>
+    <Transaction>2020/08/08 18:56:33.064,=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Rtti.pas</Transaction>
+    <Transaction>2020/08/08 18:56:59.997,D:\Desenvolvimento\Fontes\03_Horse\01_Middleware\readers-headers\src\Horse.Attributes.pas=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Attributes.pas</Transaction>
+    <Transaction>2020/08/08 18:57:16.114,D:\Desenvolvimento\Fontes\03_Horse\01_Middleware\readers-headers\src\Horse.Headers.pas=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Headers.pas</Transaction>
+    <Transaction>2020/08/08 18:57:32.180,D:\Desenvolvimento\Fontes\03_Horse\01_Middleware\readers-headers\src\Horse.Rtti.Interfaces.pas=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Rtti.Interfaces.pas</Transaction>
+    <Transaction>2020/08/08 18:57:43.801,D:\Desenvolvimento\Fontes\03_Horse\01_Middleware\readers-headers\src\Horse.Rtti.pas=D:\Desenvolvimento\Fontes\03_Horse\05_ReactJS\src\middlewares\Horse.Rtti.pas</Transaction>
+  </Transactions>
+</BorlandProject>
